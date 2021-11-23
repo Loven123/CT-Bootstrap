@@ -2,18 +2,14 @@
 
 #een {
         height: 300px;
-        width: 1800px;
         background-color: rgba(229, 255, 0, 0.055);}
 #twee {
             height: 900px;
-            width: 600px;
             background-color: aquamarine;}
             #drie {
                 height: 900px;
-                width: 900px;
                 background-color: rgb(127, 255, 195);}
             #vier{
                     height: 200px;
-                    width: 300px;
                     background-color: rgb(255, 127, 127);}
                     
